@@ -2,7 +2,4 @@
 .idea
 app/node_modules
 app/package-lock.json
-app/src/views/lib/bootstrap
-app/src/views/lib/jquery
-app/src/views/lib/plugins
-app/src/views/lib/popper.js
+app/src/views/lib
