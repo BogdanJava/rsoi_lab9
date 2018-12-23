@@ -1,0 +1,4 @@
+{
+  "build": "docker build -f Dockerfile -t laba9 .",
+  "run": "docker run -p 3000:3000 --name laba9 -e MONGO_HOST=172.19.0.2 --network laba9-network -d laba9"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && node ./src/index.js",
+    "dev": "npm install && nodemon ./src/index.js"
+  },
+  "author": "bahdan.shyshkin",
+  "license": "ISC",
+  "dependencies": {
+    "amaranjs": "^0.5.5",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.2.1",
+    "bootstrap4": "0.0.1-security",
+    "express": "^4.16.2",
+    "jquery": "^3.3.1",
+    "jquery-loading-overlay": "^1.0.2",
+    "jsonwebtoken": "^8.1.1",
+    "mongoose": "^5.0.7",
+    "npm": "^6.4.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.14.6",
+    "requirejs": "^2.3.6",
+    "thymeleaf": "^0.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}

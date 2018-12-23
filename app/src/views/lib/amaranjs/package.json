@@ -1,0 +1,54 @@
+{
+  "_from": "amaranjs",
+  "_id": "amaranjs@0.5.5",
+  "_inBundle": false,
+  "_integrity": "sha1-Lo44MoqAOhcAvBqIdJBt7yXbRHM=",
+  "_location": "/amaranjs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "amaranjs",
+    "name": "amaranjs",
+    "escapedName": "amaranjs",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/amaranjs/-/amaranjs-0.5.5.tgz",
+  "_shasum": "2e8e38328a803a1700bc1a8874906def25db4473",
+  "_spec": "amaranjs",
+  "_where": "C:\\Users\\bogda\\Desktop\\rsoi_7_sem\\rsoi_9lab_nodejs\\app",
+  "author": {
+    "name": "Hakan ERSU"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Nice, sleek and stylish notifications.",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cache": "*",
+    "gulp-clean": "*",
+    "gulp-coffee": "*",
+    "gulp-concat": "*",
+    "gulp-imagemin": "*",
+    "gulp-jshint": "*",
+    "gulp-livereload": "*",
+    "gulp-minify-css": "*",
+    "gulp-notify": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-ruby-sass": "*",
+    "gulp-uglify": "*",
+    "tiny-lr": "*"
+  },
+  "homepage": "http://hakanersu.github.io/AmaranJS/",
+  "name": "amaranjs",
+  "title": "AmaranJS",
+  "version": "0.5.5"
+}
